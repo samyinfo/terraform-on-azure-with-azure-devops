@@ -27,7 +27,7 @@ terraform {
 }
 
 # Provider Block
-
+# test commit
 provider "azurerm" {
   skip_provider_registration = "true"
 
